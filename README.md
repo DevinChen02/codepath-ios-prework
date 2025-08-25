@@ -13,6 +13,15 @@ The following **required** functionality is completed:
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
 
+## Video Walkthrough
+<div>
+    <a href="https://www.loom.com/share/81328dc79fc7439c887cc4042f4c6a4d">
+    </a>
+    <a href="https://www.loom.com/share/81328dc79fc7439c887cc4042f4c6a4d">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/81328dc79fc7439c887cc4042f4c6a4d-9cd0063c7ee4ed63-full-play.gif">
+    </a>
+  </div>
+
 ## App Brainstorming (Step 4)
 **My 5 favorite applications and their features**
 
